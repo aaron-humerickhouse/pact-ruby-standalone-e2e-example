@@ -1,0 +1,23 @@
+{
+  "name": "pact-ruby-standalone-e2e-example",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/pact-foundation/pact-ruby-standalone-e2e-example.svg?branch=master)](https://travis-ci.org/pact-foundation/pact-ruby-standalone-e2e-example)",
+  "main": "index.js",
+  "dependencies": {
+    "@pact-foundation/pact-node": "^8.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaron-humerickhouse/pact-ruby-standalone-e2e-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaron-humerickhouse/pact-ruby-standalone-e2e-example/issues"
+  },
+  "homepage": "https://github.com/aaron-humerickhouse/pact-ruby-standalone-e2e-example#readme"
+}
